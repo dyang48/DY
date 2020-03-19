@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="1 copy" type="PLAIN_TEXT" />
       <mapping pattern="Secondmenu" type="XML" />
+      <mapping pattern="cardviewperson" type="XML" />
     </extensionMap>
   </component>
 </application>
